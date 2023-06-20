@@ -15,6 +15,10 @@ html {
   }
 }
 
+html {
+  @apply bg-gray-600/60;
+}
+
 .app {
   @apply relative w-full h-screen overflow-hidden;
 }
